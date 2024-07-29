@@ -1,1 +1,1 @@
-this project about the command line calculator .
+This project about the command line calculator .
